@@ -2,10 +2,10 @@
 
 В данном репозитории представлены коммерческие проекты, их подробное описание и этапы реализации.
 
-:warning: все рабочие файлы проектов находятся в приватных github репозиториях, обновление файлов на хостинге происходит 
-при помощи github version control путем обновления из удаленных репозиториев из панели хостинга.
+## :star: rufservis.by - сайт производителя строительных материалов для юридических лиц и организаций
 
-## rufservis.by - сайт производителя строительных материалов для юридических лиц и организаций
+<a href="https://rufservis.by">[Ссылка на проект]</a>
+
 - Используемые технологии (CMS - Modx, JS, PHP, MySQL);
 - Используемые CAD и 3D программы (Autocad, SolidWorks, Cinema4D + Corona renderer);
 - Используемые графические редакторы (Photoshop, Adobe Illustrator, Figma, Adobe Indesign)
@@ -25,15 +25,15 @@
 2. Ввиду плохого UX/UI было решено переработать значительную часть структуры сайта с изменением дизайна.
 
 3. Разработка нового дизайна проводилась в Figma. Большинство иконок, фотографий и картинок дорабатывались в фотошопе.
- <img align="center" max-width="600px" src="https://raw.githubusercontent.com/din366/images/main/readme%20images/commercial-projects/rufservis/Photo-1.png">
+<img align="center" max-width="600px" src="https://raw.githubusercontent.com/din366/images/main/readme%20images/commercial-projects/rufservis/Photo-1.png">
 
 4. При создании визуальной части продукции использовались 3D программы для моделирования и визуализации - Cinema4D + Corona renderer,
 а также CAD программы для создания схем и точных 3D моделей - Autocad и SolidWorks.
-   <img align="center" max-width="800px" src="https://raw.githubusercontent.com/din366/images/main/readme%20images/commercial-projects/rufservis/photo-2.jpg">
+<img align="center" max-width="800px" src="https://raw.githubusercontent.com/din366/images/main/readme%20images/commercial-projects/rufservis/photo-2.jpg">
 
 5. Для удобной навигации по некоторым продуктам был создан каталог с фильтрацией.
 Для этого использовалась связка JS-PHP-MySQL. <a href="https://www.rufservis.by/komplekty/gasfuel/">[Ссылка на реализацию]</a>
-   <img align="center" max-width="800px" src="https://github.com/din366/images/blob/main/readme%20images/commercial-projects/rufservis/photo-3.gif?raw=true">
+<img align="center" max-width="800px" src="https://github.com/din366/images/blob/main/readme%20images/commercial-projects/rufservis/photo-3.gif?raw=true">
 
 6. При создании кредитного калькулятора был сформирован запрос к API национального банка Республики Беларусь
 для привязки текущей ставки рефинансирования к табличным расчетам.
@@ -41,7 +41,7 @@
 7. Проектным организациям и физическим лицам для удобства расчетов было создано несколько приложений:
 
 <ul>
-<li>Калькулятор веса и размеров деталей <a href="https://www.rufservis.by/info/details-calculator">[Ссылка на реализацию]</a></li>
+<li>:arrow_right: Калькулятор веса и размеров деталей <a href="https://www.rufservis.by/info/details-calculator">[Ссылка на реализацию]</a></li>
 <p>:white_check_mark: Данный калькулятор позволил упростить и значительно ускорить работу сторонних проектных организаций и проектировщиков, разрабатываемых документацию при строительстве или реконструкции здания.</p>
 <ul>
     <li>В начале при помощи CAD программы Autocad был рассчитан вес и габаритные размеры каталожных деталей. Созданы 2D схемы с размерами.</li>
@@ -52,7 +52,7 @@
 </ul>
 <img align="center" max-width="800px" src="https://github.com/din366/images/blob/main/readme%20images/commercial-projects/rufservis/photo-4.gif?raw=true">
 
-<li>Калькулятор смещения дымохода <a href="https://www.rufservis.by/info/offset">[Ссылка на реализацию]</a></li>
+<li>:arrow_right: Калькулятор смещения дымохода <a href="https://www.rufservis.by/info/offset">[Ссылка на реализацию]</a></li>
 <p>:white_check_mark: Реализация данного калькулятора позволило упростить базовые расчеты, без необходимости использования тяжелых CAD программ. Также позволило физлицам, не знакомым со спецификой производства, самостоятельно просчитать требуемые расстояния.</p>
 <ul>
     <li>Пошаговый калькулятор, который помогает рассчитать смещение деталей в пространстве.</li>
@@ -61,7 +61,7 @@
 </ul>
 <img align="center" max-width="800px" src="https://github.com/din366/images/blob/main/readme%20images/commercial-projects/rufservis/photo-5.gif?raw=true">
 
-<li>Кредитный калькулятор <a href="https://www.rufservis.by/info/kredit">[Ссылка на реализацию]</a></li>
+<li>:arrow_right: Кредитный калькулятор <a href="https://www.rufservis.by/info/kredit">[Ссылка на реализацию]</a></li>
 <p>:white_check_mark: Данный калькулятор предоставил возможность физлицам самостоятельно рассчитать выплаты по кредиту без необходимости предварительного обращения в банк.</p>
 <ul>
     <li>Для получения ставки рефинансирования использовалась API национального банка Республики Беларусь</li>
@@ -69,7 +69,7 @@
 </ul>
 <img align="center" max-width="800px" src="https://github.com/din366/images/blob/main/readme%20images/commercial-projects/rufservis/photo-6.gif?raw=true">
 
-<li>Калькулятор маркировки СТБ-EN 1856 <a href="https://www.rufservis.by/info/markirovka-stb">[Ссылка на реализацию]</a></li>
+<li>:arrow_right: Калькулятор маркировки СТБ-EN 1856 <a href="https://www.rufservis.by/info/markirovka-stb">[Ссылка на реализацию]</a></li>
 <p>:white_check_mark: Калькулятор помогает проектировщикам и проектным организациям, опираясь на предоставленные теоретические данные, сформировать код для продукции, необходимый для спецификации</p>
 <ul>
     <li>На основе выбранных параметров и их описания пользователь получает сформированных код продукции</li>
@@ -80,4 +80,5 @@
 8. Разработка и верстка бумажного каталога опиралась на теоретические расчеты, 3D рендеры и схемы, произведенные ранее. Верстка производилась в Adobe Indesign с последующей печатью в полиграфии
 <img align="center" max-width="800px" src="https://raw.githubusercontent.com/din366/images/main/readme%20images/commercial-projects/rufservis/photo-8.jpg">
     
+---
 
