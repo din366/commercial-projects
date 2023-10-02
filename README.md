@@ -15,7 +15,7 @@
 
 :o: <a href="https://rufservis.by">[Ссылка на проект]</a>
 
-<img align="center" max-width="600px" src="https://raw.githubusercontent.com/din366/images/main/readme%20images/commercial-projects/rufservis/rufservis-main-page.png" alt="photo">
+<img align="center" max-width="600px" src="https://raw.githubusercontent.com/din366/images/main/readme%20images/commercial-projects/rufservis-main-page.png" alt="photo">
 
 
 ## Поставленные задачи: 
@@ -29,7 +29,7 @@
 
 <p>:warning: На текущий момент работа над сайтом продолжается.</p>
 
-## Используеыме технологии и инструменты:
+## Используемые технологии и инструменты:
 - Javascript, HTML, CSS (Less);
 - PHP, MySQL, ModX CMS;
 - CAD и 3D программы: Autocad, Solidworks, Cinema4D + Corona renderer;
@@ -107,7 +107,7 @@
 
 :o: <a href="https://chimney-pro.by">[Ссылка на проект]</a>
 
-<img align="center" max-width="600px" src="https://raw.githubusercontent.com/din366/images/main/readme%20images/commercial-projects/rufservis/chimney-pro-main-page.png" alt="photo">
+<img align="center" max-width="600px" src="https://raw.githubusercontent.com/din366/images/main/readme%20images/commercial-projects/chimney-pro-main-page.png" alt="photo">
 
 ## Поставленные задачи:
 - Создание одностраничного сайта с посадочной страницей для контекстной рекламы (в дальнейшем сайт расширился до многостраничного каталога);
@@ -118,7 +118,7 @@
 
 <p>:warning: На текущий момент работа над сайтом продолжается.</p>
 
-## Используеыме технологии и инструменты:
+## Используемые технологии и инструменты:
 - Javascript, HTML, CSS (Less);
 - PHP, OpenCart CMS;
 - CAD и 3D программы: Autocad, Cinema4D + Corona renderer;
@@ -151,7 +151,7 @@
 
 :o: <a href="https://teploservis.by">[Ссылка на проект]</a>
 
-<img align="center" max-width="600px" src="https://raw.githubusercontent.com/din366/images/main/readme%20images/commercial-projects/rufservis/teploservis-main-page.png" alt="photo">
+<img align="center" max-width="600px" src="https://raw.githubusercontent.com/din366/images/main/readme%20images/commercial-projects/teploservis-main-page.png" alt="photo">
 
 ## Поставленные задачи:
 - Полная переработка структуры и дизайна старого сайта;
@@ -161,7 +161,7 @@
 - Написание нескольких статей для продвижения в органическом поиске согласно собранным ключевым и LSI словам;
 - Настройка аналитики сайта - Яндекс.Метрика.
 
-## Используеыме технологии и инструменты:
+## Используемые технологии и инструменты:
 - Javascript, HTML, CSS (Less);
 - PHP, WordPress CMS;
 - Графические редакторы: Photoshop, Adobe Illustrator, Figma;
@@ -182,7 +182,7 @@
 
 :o: <a href="https://ventpro.by">[Ссылка на проект]</a>
 
-<img align="center" max-width="600px" src="https://raw.githubusercontent.com/din366/images/main/readme%20images/commercial-projects/rufservis/ventpro-main-page.png" alt="photo">
+<img align="center" max-width="600px" src="https://raw.githubusercontent.com/din366/images/main/readme%20images/commercial-projects/ventpro-main-page.png" alt="photo">
 
 ## Поставленные задачи:
 - Разработать дизайн и структуру посадочной страницы для использования в контекстной рекламе;
@@ -190,7 +190,7 @@
 - Создать и настроить контекстную рекламу (сбор ключевых слов, формирование объявлений, карточек, A/B тестирование);
 - Настроить аналитику для отслеживания конверсий;
 
-## Используеыме технологии и инструменты:
+## Используемые технологии и инструменты:
 - Vanilla JS, HTML, CSS (Less);
 - 3D программы: Solidworks, Cinema4D + Corona renderer;
 - Графические редакторы: Photoshop, Adobe Illustrator, Figma;
