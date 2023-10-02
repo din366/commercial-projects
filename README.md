@@ -4,10 +4,10 @@
 
 ## Перейти к описанию проекта:
 
-<p>:zap: [rufservis.by - Корпоративный сайт производителя строительных материалов (ModX CMS, JS, PHP, MySQL)](#rufservis)</p>
-<p>:zap: [chimney-pro.by - Корпоративный сайт производителя строительных материалов, ориентированный на физических лиц (OpenCart CMS, JS, PHP)](#chimneypro)</p>
-<p>:zap: [teploservis.by - Многостраничный сайт услуг строительной тематики (WordPress CMS, JS, PHP)](#teploservis)</p>
-<p>:zap: [ventpro.by - Посадочная страница производителя товаров для вентиляции (Vanilla JS, HTML, CSS(less), PHP)](#ventpro)</p>
+### :zap: [rufservis.by - Корпоративный сайт производителя строительных материалов (ModX CMS, JS, PHP, MySQL)](#rufservis)
+### :zap: [chimney-pro.by - Корпоративный сайт производителя строительных материалов, ориентированный на физических лиц (OpenCart CMS, JS, PHP)](#chimneypro)
+### :zap: [teploservis.by - Многостраничный сайт услуг строительной тематики (WordPress CMS, JS, PHP)](#teploservis)
+### :zap: [ventpro.by - Посадочная страница производителя товаров для вентиляции (Vanilla JS, HTML, CSS(less), PHP)](#ventpro)
 
 ---
 <a name="rufservis"></a>
